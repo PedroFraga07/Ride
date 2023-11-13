@@ -1,0 +1,44 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+:root {
+  --bs-primary-rgb: 116, 205, 240;
+}
+
+.btn-success {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #139a43;
+  --bs-btn-border-color: #139a43;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #0b5d1e;
+  --bs-btn-hover-border-color: #0b5d1e;
+  --bs-btn-focus-shadow-rgb: 60, 153, 110;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #0b5d1e;
+  --bs-btn-active-border-color: #0b5d1e;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #139a43;
+  --bs-btn-disabled-border-color: #139a43;
+}
+
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #74cdf0;
+  --bs-btn-border-color: #60c9f3;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #51add1;
+  --bs-btn-hover-border-color: #51b1d6;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #51add1;
+  --bs-btn-active-border-color: #51b1d6;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #74cdf0;
+  --bs-btn-disabled-border-color: #60c9f3;
+}
+
+#mapDetail {
+  height: 300px;
+  background-color: #ccc;
+}
